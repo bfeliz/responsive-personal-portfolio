@@ -1,4 +1,4 @@
-# responsive-personal-portfolio
+# Responsive Personal Portfolio
 
 ## Description
 
